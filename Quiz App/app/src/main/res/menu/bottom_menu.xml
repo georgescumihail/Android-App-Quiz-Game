@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/action_category"
+        android:enabled="true"
+        android:title="Categories"
+        android:icon="@drawable/ic_question_answer_black_24dp"
+        app:showAsAction="ifRoom"
+        tools:ignore="MenuTitle,UnusedAttribute"
+
+        />
+
+
+    <item
+        android:id="@+id/action_ranking"
+        android:enabled="true"
+        android:title="Ranking"
+        android:icon="@drawable/ic_star_black_24dp"
+        app:showAsAction="ifRoom"
+        tools:ignore="MenuTitle,UnusedAttribute"
+
+        />
+
+</menu>

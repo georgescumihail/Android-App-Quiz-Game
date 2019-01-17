@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="signup">Sign Up</string>
+    <string name="signin">Sign In</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="credits">Developed by: Alexandra Ionascu, Mihail Georgescu, Valentin Manea, Mircea Matei</string>
+    <string name="email">Email</string>
+    <string name="occupation">Occupation</string>
+    <string name="score0">Score: 0</string>
+    <string name="passed0">Passed: 0/30</string>
+    <string name="try_again">Try Again</string>
+    <string name="zero">0</string>
+    <string name="totalques">1/30</string>
+    <string name="answer_a">Answer A</string>
+    <string name="answer_b">Answer B</string>
+    <string name="answer_c">Answer C</string>
+    <string name="answer_d">Answer D</string>
+    <string name="play">Play</string>
+    <string name="category_name">Category Name</string>
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+
+
+</resources>
